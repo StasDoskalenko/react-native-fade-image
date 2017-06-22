@@ -1,8 +1,12 @@
 {
   "name": "react-native-fade-image",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pure component that extends native Image to have images fade in pleasantly when they finish loading",
   "main": "index.js",
   "author": "Stanislav Doskalenko <doskalenko.s@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StasDoskalenko/react-native-fade-image.git"
+  },
 }
